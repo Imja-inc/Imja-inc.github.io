@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Welcome to Imja</title>
+      <title>Imja: Excercise in Long Bets</title>
       <link>https://imja-inc.github.io/posts/welcome-to-imja/</link>
       <pubDate>Thu, 04 Oct 2018 22:00:31 -0700</pubDate>
       
       <guid>https://imja-inc.github.io/posts/welcome-to-imja/</guid>
-      <description>Imja: Exercise in Long Bets This is an experiment in how I can have an impact in software engineering best practices, through training and improved tools. There&amp;rsquo;s a few big things in the works, but the idea here is:
+      <description>This is an experiment in how I can have an impact in software engineering best practices, through training and improved tools. There&amp;rsquo;s a few big things in the works, but the idea here is:
  We need to improve cross-team communication to deliver the best software
  Save more time with better software, hacks cost lot more over longer time
  Not everyone will read Fowler and Schneier and follow best practices.</description>
